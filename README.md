@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm KULBHUSHAN</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img style="max-width: 100%; width:500px" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="" srcset="">
+<img style="display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="" srcset="">
 
 - 🔭 I’m currently working on [backend stack projects](https://github.com/mr-kbRKD/Book_Record_Management)
 
