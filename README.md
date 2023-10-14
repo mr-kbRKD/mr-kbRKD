@@ -3,7 +3,7 @@
 <img style="display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="" srcset="">
+    width: 50%;" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="" srcset="">
 
 - 🔭 I’m currently working on [backend stack projects](https://github.com/mr-kbRKD/Book_Record_Management)
 
