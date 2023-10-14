@@ -3,9 +3,9 @@
 <img style="display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="" srcset="">
+    width: 80%;" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="" srcset="">
 
-- 🔭 I’m currently working on [backend stack projects](https://github.com/mr-kbRKD/Book_Record_Management)
+- 🔭 I’m currently working on [backend project](https://github.com/mr-kbRKD/Book_Record_Management)
 
 - 🌱 I’m currently learning **MERN Stack**
 
